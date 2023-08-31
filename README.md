@@ -1,6 +1,6 @@
 # CEM-Aluminium-Price-Forecast
 
-Consulting project as a student
+Consulting project as a student (Python)
 
 Very first AI approach for a company to track a raw material price forecast (focus on Aluminium)
 
